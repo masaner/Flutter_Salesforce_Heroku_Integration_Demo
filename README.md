@@ -1,5 +1,4 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-remote_theme: just-the-docs/just-the-docs
 <a name="readme-top"></a>
 
 
