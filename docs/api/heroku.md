@@ -14,8 +14,17 @@ nav_order: 1
 
 1. TOC
 {:toc}
+2. TOC
+{:toc}
 
 ---
 
 ## Font stack
 Some Text
+
+---
+
+## Test 2
+---
+
+## Test 3
