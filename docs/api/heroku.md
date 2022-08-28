@@ -2,6 +2,7 @@
 layout: default
 title: Heroku
 parent: APIs
+has_children: true
 nav_order: 1
 ---
 
