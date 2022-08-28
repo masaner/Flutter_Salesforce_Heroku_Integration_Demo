@@ -5,7 +5,6 @@ nav_order: 3
 ---
 
 # Setup
-{: .no_toc }
 
 <!-- GETTING STARTED -->
 ## Getting Started
