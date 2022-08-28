@@ -21,8 +21,9 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 ## Getting started
 
 ### App
+![](docs-assets/App.png)
 
-![](docs-assets/App-Left.png)![](docs-assets/App-Right.png)
+<!-- ![](docs-assets/App-Left.png)![](docs-assets/App-Right.png) -->
 
 ### Dependencies
 
