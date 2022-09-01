@@ -36,7 +36,7 @@ permalink: /
     <br />
     <a href="docs-assets/appgif.gif">View Demo</a>
     ·
-    <a href="docs/architecture.md">View Architecture</a>
+    <a href="docs/architecture.html">View Architecture</a>
     ·
     <a href="https://github.com/masaner/Flutter_Salesforce_Heroku_Integration_Demo/issues">Report Bug</a>
     ·
