@@ -5,6 +5,7 @@ nav_order: 1
 description: ""
 permalink: /
 ---
+<a name="readme-top"></a>
 
 # Flutter App Demo
 {: .fs-9 }
@@ -18,7 +19,6 @@ permalink: /
 <!-- **New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!** -->
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
 
 
 <!-- PROJECT LOGO -->
@@ -35,6 +35,8 @@ permalink: /
     <br />
     <br />
     <a href="docs-assets/appgif.gif">View Demo</a>
+    ·
+    <a href="docs/architecture.md">View Architecture</a>
     ·
     <a href="https://github.com/masaner/Flutter_Salesforce_Heroku_Integration_Demo/issues">Report Bug</a>
     ·
@@ -61,9 +63,6 @@ I will be also providing the Apex Classes in [this folder].
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 
 * [![Flutter][Flutter]][Flutter-URL]
 * [![Dart][Dart]][Dart-URL]
