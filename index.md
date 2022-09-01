@@ -2,30 +2,32 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: ""
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Flutter Integration with Salesforce and Heroku
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+This project displays the use of Salesforce and Heroku integrated into Flutter. The app is capable of retrieving the temperature of a given geolocation."
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+<!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
 ---
 
-**New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!**
+<!-- **New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!** -->
 
-## Getting started
-
-### App
+### The App
 ![](docs-assets/App.png)
 
-<!-- ![](docs-assets/App-Left.png)![](docs-assets/App-Right.png) -->
-
+---
 ### Dependencies
+
+- Heroku PostgreSQL
+- Salesforce Dev Org / Sandbox
+- Open Weather API Key
+- Basic knowledge of Apex, JS, Dart
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
