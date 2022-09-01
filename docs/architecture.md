@@ -8,5 +8,4 @@ nav_order: 2
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-![Layout of Salesforce Integration](docs-assets/MyApp.png "Salesforce Integration Chart")
+![Flutter Integration Demo](../docs-assets/MyApp.png "Flutter App Screenshot")
