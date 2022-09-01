@@ -19,7 +19,7 @@ This project displays the use of Salesforce and Heroku integrated into Flutter. 
 <!-- **New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!** -->
 
 ### The App
-![](docs-assets/App.png)
+
 
 ---
 ### Dependencies
@@ -90,18 +90,18 @@ This project displays the use of Salesforce and Heroku integrated into Flutter. 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Flutter Integration Demo][product-screenshot]](docs-assets/App.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project shows some of the features that flutter has about displaying data from external sources such as Heroku and Salesforce. We are also able to benefit from the Rest Resources on Salesforce all in our app. The app is still being updated would love to hear your feedback. If you have any suggestions on what should be done next or if you feel like something should be done in another way, please feel free to send me a pull request. I will try to look through all request and have your ideas implemented in this app. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Prerequisites:
+* [Salesforce Developer Org](https://developer.salesforce.com/signup)
+* [Heroku Account With PostgreSQL](https://signup.heroku.com/login)
+* [OpenWeather API Key](https://home.openweathermap.org/users/sign_up)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+I will be also providing the Apex Classes in [this folder].
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
