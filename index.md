@@ -90,7 +90,8 @@ This project displays the use of Salesforce and Heroku integrated into Flutter. 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Flutter Integration Demo][product-screenshot]](docs-assets/App.png)
+![Flutter Integration Demo][product-screenshot](docs-assets/App.png)
+![Flutter Integration Demo](docs-assets/App.png "Flutter App Screenshot")
 
 This project shows some of the features that flutter has about displaying data from external sources such as Heroku and Salesforce. We are also able to benefit from the Rest Resources on Salesforce all in our app. The app is still being updated would love to hear your feedback. If you have any suggestions on what should be done next or if you feel like something should be done in another way, please feel free to send me a pull request. I will try to look through all request and have your ideas implemented in this app. 
 
