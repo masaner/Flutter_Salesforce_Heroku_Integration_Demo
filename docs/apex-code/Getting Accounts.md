@@ -8,4 +8,18 @@ nav_order: 1
 # AccountClient.cls
 {: .no_toc }
 
-<a href="docs-assets/apex-code/AccountClient.cls">Getting Accounts</a>
+```java
+@RestResource(urlmapping='/Accounts/*')
+global with sharing class AccountClient 
+{
+    @HttpGet
+    global static List<Account> AccountClient()
+    {
+        List<Account> accounts = [  SELECT Id, Name, Phone, Email__c, Location__c, IsDemo__c 
+                                    FROM Account 
+                                    WHERE IsDemo__c = TRUE];
+        return accounts;
+    }
+}
+```
+

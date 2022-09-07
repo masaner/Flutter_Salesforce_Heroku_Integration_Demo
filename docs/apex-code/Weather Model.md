@@ -2,10 +2,24 @@
 layout: default
 title: Weather Model
 parent: Getting Weather Data
-nav_order: 1
+grand_parent: Apex Code
+permalink: /docs/apex-code/weatherdata/model/
 ---
 
 # WeatherModel.cls
 {: .no_toc }
 
-<a href="docs-assets/apex-code/WeatherModel.cls">Weather Data Model</a>
+```java
+global with sharing class WeatherModel 
+{
+    global String city  { get; set; }
+    global Decimal temp { get; set; }
+
+    global WeatherModel(String city, Decimal temp) 
+    {
+        this.city = city;
+        this.temp = temp;
+    }
+
+}
+```
