@@ -11,6 +11,6 @@ permalink: /docs/apex-code
 To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
 {: .fs-6 .fw-300 }
 
-<a href="/docs/apex-code/Getting Accounts.html">Getting Accounts</a>
-<a href="/docs/apex-code/Getting Weather Data.html">Getting Weather Data</a>
-<a href="/docs/apex-code/Weather Model.html">Weather Data Model</a>
+<a href="docs/apex-code/Getting Accounts.html">Getting Accounts</a>
+<a href="docs/apex-code/Getting Weather Data.html">Getting Weather Data</a>
+<a href="docs/apex-code/Weather Model.html">Weather Data Model</a>
