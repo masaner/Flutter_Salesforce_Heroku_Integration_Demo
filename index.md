@@ -25,7 +25,7 @@ permalink: /
 <br />
 <div align="center">
     <img src="docs-assets/cloud.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Flutter App</h3>
+  <h3 align="center">Flutter Demo App by Meric Asaner</h3>
 
   <p align="center">
     Integrated with Salesforce, Heroku, and OpenWeather!
