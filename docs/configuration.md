@@ -7,7 +7,6 @@ nav_order: 5
 # Configurationn
 
 <!-- GETTING STARTED -->
-## Getting Started
+## IN PROGRESS...
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This section of the documentation is currently in development. In the meantime, if you have any questions, please contact me.

@@ -8,7 +8,7 @@ nav_order: 3
 {: .no_toc }
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## IN PROGRESS...
+
+This section of the documentation is currently in development. In the meantime, if you have any questions, please contact me.
