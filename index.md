@@ -56,7 +56,7 @@ Prerequisites:
 * [Heroku Account With PostgreSQL](https://signup.heroku.com/login)
 * [OpenWeather API Key](https://home.openweathermap.org/users/sign_up)
 
-I will be also providing the Apex Classes in [this folder].
+I have also provided the Apex Classes in [this folder](docs/apex-code).
 
 
 ### Built With
