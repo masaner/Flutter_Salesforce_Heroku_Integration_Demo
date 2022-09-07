@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Code
+title: Dart Code
 nav_order: 7
 has_children: true
 permalink: /docs/code
 ---
 
-# Code
-
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+# Dart Code
 {: .fs-6 .fw-300 }
+
+## IN PROGRESS...
+
+This section of the documentation is currently in development. In the meantime, if you have any questions, please contact me.

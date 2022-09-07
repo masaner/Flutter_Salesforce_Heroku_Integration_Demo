@@ -9,22 +9,6 @@ nav_order: 1
 # Heroku
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+## IN PROGRESS...
 
-1. TOC
-{:toc}
-2. TOC
-{:toc}
-
----
-
-## Font stack
-Some Text
-
----
-
-## Test 2
----
-
-## Test 3
+This section of the documentation is currently in development. In the meantime, if you have any questions, please contact me.

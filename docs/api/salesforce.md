@@ -8,13 +8,6 @@ nav_order: 3
 # Salesforce
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+## IN PROGRESS...
 
-1. TOC
-{:toc}
-
----
-
-## Font stack2
-Some Text2
+This section of the documentation is currently in development. In the meantime, if you have any questions, please contact me.
